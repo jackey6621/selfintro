@@ -8,7 +8,7 @@ Time spent: 3 hours spent in total
 
 ## Required Features
 
-The following * functionality is completed:
+The following functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
